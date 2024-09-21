@@ -1,0 +1,1 @@
+instance_create_depth(8,8,0,objSnake);
