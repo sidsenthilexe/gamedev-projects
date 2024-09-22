@@ -2,5 +2,5 @@
 Practice projects in Gamemaker
 
 ## Current status:
-* Snake: In progress
+* [snake](https://github.com/sidsenthilexe/gamemaker-projects/tree/main/snake): In progress
   - Up next: snake grows when eating food
