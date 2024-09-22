@@ -34,6 +34,7 @@
   },
   "name":"snake",
   "resources":[
+    {"id":{"name":"objFood","path":"objects/objFood/objFood.yy",},},
     {"id":{"name":"objSnake","path":"objects/objSnake/objSnake.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
