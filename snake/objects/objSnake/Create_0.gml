@@ -1,4 +1,5 @@
-frames = 2
+frames = 2;
+score = 0;
 
 game_set_speed(frames, gamespeed_fps);
 randomize();

@@ -24,4 +24,6 @@ y = (y+velocityY+16)%16;
 if (x == objFood.x && y == objFood.y) {
 	instance_destroy(objFood);
 	instance_create_depth(floor(random(15)),floor(random(15)),0,objFood);
+	score += 1;
+	show_debug_message(score);
 }
